@@ -1,0 +1,156 @@
+﻿  main.cpp
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\dbllist.h(20): error C2989: “DblList”: 类 模板 已经声明为非类 模板
+  c:\users\cxq\desktop\数据结构\顺序表\顺序表\dblnode.h(7): note: 参见“DblList”的声明
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\dbllist.h(4): error C3857: “DblList”: 不允许使用多个 模板 参数列表
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\dbllist.h(22): error C2988: 不可识别的模板声明/定义
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\dbllist.h(22): error C2059: 语法错误:“<”
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\dbllist.h(23): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\dbllist.h(23): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\dbllist.h(34): error C2988: 不可识别的模板声明/定义
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\dbllist.h(34): error C2059: 语法错误:“<”
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\dbllist.h(34): error C2523: “::~DblList”: 析构函数 标记不匹配
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\dbllist.h(35): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\dbllist.h(35): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\dbllist.h(39): error C2988: 不可识别的模板声明/定义
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\dbllist.h(39): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\dbllist.h(39): error C2059: 语法错误:“<”
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\dbllist.h(39): error C2039: “Length”: 不是“`global namespace'”的成员
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\dbllist.h(40): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\dbllist.h(40): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\dbllist.h(51): error C2988: 不可识别的模板声明/定义
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\dbllist.h(51): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\dbllist.h(51): error C2040: “DblList”:“DblNode<T> *”与“int”的间接寻址级别不同
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\dbllist.h(51): error C2059: 语法错误:“<”
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\dbllist.h(51): error C2039: “Search”: 不是“`global namespace'”的成员
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\dbllist.h(52): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\dbllist.h(52): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\dbllist.h(63): error C2988: 不可识别的模板声明/定义
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\dbllist.h(63): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\dbllist.h(63): error C2040: “DblList”:“DblNode<T> *”与“int”的间接寻址级别不同
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\dbllist.h(63): error C2059: 语法错误:“<”
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\dbllist.h(63): error C2039: “Locate”: 不是“`global namespace'”的成员
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\dbllist.h(64): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\dbllist.h(64): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\dbllist.h(87): error C2988: 不可识别的模板声明/定义
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\dbllist.h(87): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\dbllist.h(87): error C2371: “DblList”: 重定义；不同的基类型
+  c:\users\cxq\desktop\数据结构\顺序表\顺序表\dbllist.h(39): note: 参见“DblList”的声明
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\dbllist.h(87): error C2059: 语法错误:“<”
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\dbllist.h(87): error C2039: “Insert”: 不是“`global namespace'”的成员
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\dbllist.h(88): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\dbllist.h(88): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\main.cpp(11): error C2065: “seqlist”: 未声明的标识符
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\main.cpp(19): error C2065: “num”: 未声明的标识符
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\main.cpp(22): error C2065: “num”: 未声明的标识符
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\main.cpp(23): error C2050: switch 表达式不是整型
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\main.cpp(27): error C2679: 二进制“>>”: 没有找到接受“overloaded-function”类型的右操作数的运算符(或没有可接受的转换)
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(333): note: 可能是“std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_streambuf<char,std::char_traits<char>> *)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(328): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(void *&)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(323): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(long double &)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(318): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(double &)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(313): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(float &)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(308): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned __int64 &)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(303): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(__int64 &)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(298): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned long &)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(293): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(long &)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(288): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned int &)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(278): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(int &)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(273): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned short &)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(233): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(short &)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(228): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(bool &)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(203): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::ios_base &(__cdecl *)(std::ios_base &))”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(197): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(192): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_istream<char,std::char_traits<char>> &(__cdecl *)(std::basic_istream<char,std::char_traits<char>> &))”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(940): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::operator >><std::char_traits<char>>(std::basic_istream<char,std::char_traits<char>> &,unsigned char &)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(933): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::operator >><std::char_traits<char>>(std::basic_istream<char,std::char_traits<char>> &,unsigned char *)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(926): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::operator >><std::char_traits<char>>(std::basic_istream<char,std::char_traits<char>> &,signed char &)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(919): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::operator >><std::char_traits<char>>(std::basic_istream<char,std::char_traits<char>> &,signed char *)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(894): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::operator >><char,std::char_traits<char>>(std::basic_istream<char,std::char_traits<char>> &,_Elem &)”
+          with
+          [
+              _Elem=char
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(853): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::operator >><char,std::char_traits<char>>(std::basic_istream<char,std::char_traits<char>> &,_Elem *)”
+          with
+          [
+              _Elem=char
+          ]
+  c:\users\cxq\desktop\数据结构\顺序表\顺序表\main.cpp(27): note: 尝试匹配参数列表“(std::istream, overloaded-function)”时
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\main.cpp(28): error C2065: “seqlist”: 未声明的标识符
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\main.cpp(32): error C2065: “location”: 未声明的标识符
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\main.cpp(34): error C2679: 二进制“>>”: 没有找到接受“overloaded-function”类型的右操作数的运算符(或没有可接受的转换)
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(333): note: 可能是“std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_streambuf<char,std::char_traits<char>> *)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(328): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(void *&)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(323): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(long double &)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(318): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(double &)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(313): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(float &)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(308): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned __int64 &)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(303): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(__int64 &)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(298): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned long &)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(293): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(long &)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(288): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned int &)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(278): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(int &)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(273): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned short &)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(233): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(short &)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(228): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(bool &)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(203): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::ios_base &(__cdecl *)(std::ios_base &))”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(197): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(192): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_istream<char,std::char_traits<char>> &(__cdecl *)(std::basic_istream<char,std::char_traits<char>> &))”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(940): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::operator >><std::char_traits<char>>(std::basic_istream<char,std::char_traits<char>> &,unsigned char &)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(933): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::operator >><std::char_traits<char>>(std::basic_istream<char,std::char_traits<char>> &,unsigned char *)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(926): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::operator >><std::char_traits<char>>(std::basic_istream<char,std::char_traits<char>> &,signed char &)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(919): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::operator >><std::char_traits<char>>(std::basic_istream<char,std::char_traits<char>> &,signed char *)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(894): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::operator >><char,std::char_traits<char>>(std::basic_istream<char,std::char_traits<char>> &,_Elem &)”
+          with
+          [
+              _Elem=char
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(853): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::operator >><char,std::char_traits<char>>(std::basic_istream<char,std::char_traits<char>> &,_Elem *)”
+          with
+          [
+              _Elem=char
+          ]
+  c:\users\cxq\desktop\数据结构\顺序表\顺序表\main.cpp(34): note: 尝试匹配参数列表“(std::istream, overloaded-function)”时
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\main.cpp(35): error C2065: “seqlist”: 未声明的标识符
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\main.cpp(35): error C2065: “location”: 未声明的标识符
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\main.cpp(39): error C2065: “location”: 未声明的标识符
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\main.cpp(40): error C2065: “location”: 未声明的标识符
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\main.cpp(41): error C2065: “seqlist”: 未声明的标识符
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\main.cpp(41): error C2065: “location”: 未声明的标识符
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\main.cpp(45): error C2065: “seqlist”: 未声明的标识符
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\main.cpp(48): error C2065: “location”: 未声明的标识符
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\main.cpp(50): error C2679: 二进制“>>”: 没有找到接受“overloaded-function”类型的右操作数的运算符(或没有可接受的转换)
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(333): note: 可能是“std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_streambuf<char,std::char_traits<char>> *)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(328): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(void *&)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(323): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(long double &)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(318): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(double &)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(313): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(float &)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(308): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned __int64 &)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(303): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(__int64 &)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(298): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned long &)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(293): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(long &)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(288): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned int &)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(278): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(int &)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(273): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned short &)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(233): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(short &)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(228): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(bool &)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(203): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::ios_base &(__cdecl *)(std::ios_base &))”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(197): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(192): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_istream<char,std::char_traits<char>> &(__cdecl *)(std::basic_istream<char,std::char_traits<char>> &))”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(940): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::operator >><std::char_traits<char>>(std::basic_istream<char,std::char_traits<char>> &,unsigned char &)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(933): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::operator >><std::char_traits<char>>(std::basic_istream<char,std::char_traits<char>> &,unsigned char *)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(926): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::operator >><std::char_traits<char>>(std::basic_istream<char,std::char_traits<char>> &,signed char &)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(919): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::operator >><std::char_traits<char>>(std::basic_istream<char,std::char_traits<char>> &,signed char *)”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(894): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::operator >><char,std::char_traits<char>>(std::basic_istream<char,std::char_traits<char>> &,_Elem &)”
+          with
+          [
+              _Elem=char
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(853): note: 或    “std::basic_istream<char,std::char_traits<char>> &std::operator >><char,std::char_traits<char>>(std::basic_istream<char,std::char_traits<char>> &,_Elem *)”
+          with
+          [
+              _Elem=char
+          ]
+  c:\users\cxq\desktop\数据结构\顺序表\顺序表\main.cpp(50): note: 尝试匹配参数列表“(std::istream, overloaded-function)”时
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\main.cpp(51): error C2065: “seqlist”: 未声明的标识符
+c:\users\cxq\desktop\数据结构\顺序表\顺序表\main.cpp(51): error C2065: “location”: 未声明的标识符
